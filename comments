@@ -1,0 +1,9 @@
+Hallo Manuela, 
+
+Hier sind meine Kommentare zu deiner Abgabe: 
+
+Du hast die Datentypen sinnvoll gewählt und allen Tabellen außer der Worksharing Tabelle einen Primarykey zugewiesen. 
+Die Worksharing-Tabelle benötigt einen zusammengesetzten Primarykey, der aus den beiden Fremdschlüsseln besteht. 
+Was mir noch fehlt, ist die richtige Erstellung der Fremdschlüssel. 
+Einen Fremdschlüssel hast du in der Athlet-Tabelle erstellt, aber dabei auf das falsche Attribut verwiesen. 
+Wir werden uns morgen noch einmal die Fremdschlüsselerstellung genauer ansehen. 
